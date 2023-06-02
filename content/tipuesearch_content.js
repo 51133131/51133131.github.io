@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'https://github.com/51133131/51133131.github.io \n https://51133131.github.io \n https://github.com/mdecycu/cmside \n \n \n \n \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'Replit', 'text': 'https://replit.com/~ \n \n', 'tags': '', 'url': 'Replit.html'}, {'title': 'About', 'text': 'https://github.com/51133131/51133131.github.io \n https://51133131.github.io \n https://github.com/mdecycu/cmside \n \n \n \n \n', 'tags': '', 'url': 'About.html'}]};
